@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,CAAC,CAAA;EACG,UAAU,EAAE,UAAU;CACzB;;AACD,AAAA,KAAK,CAAC;EACF,MAAM,EAAE,IAAI;EACb,KAAK,EAAE,KAAK;EACb,OAAO,EAAE,IAAI;EACX,qBAAqB,EAAE,eAAe;CAEzC;;AAED,AAAA,KAAK,CAAC;EACF,MAAM,EAAE,eAAe;EACvB,MAAM,EAAE,IAAI;EAEZ,MAAM,EAAE,GAAG;CACd",
+    "sources": [
+        "Etch-a-Scatch.scss"
+    ],
+    "names": [],
+    "file": "Etch-a-Scatch.css"
+}

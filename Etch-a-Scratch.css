@@ -1,0 +1,20 @@
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.grid {
+  margin: auto;
+  width: 960px;
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: (1fr)[16];
+      grid-template-columns: repeat(16, 1fr);
+}
+
+.cell {
+  border: 1px solid black;
+  height: 50px;
+  margin: 0px;
+}
+/*# sourceMappingURL=Etch-a-Scatch.css.map */
